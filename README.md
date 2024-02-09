@@ -1,2 +1,2 @@
-# Kaggle competition :*
+# Kaggle competition :
 Predicting house sale prices
